@@ -102,7 +102,7 @@ require (
 	golang.org/x/tools/cmd/cover v0.1.0-deprecated
 	google.golang.org/api v0.114.0
 	google.golang.org/genproto v0.0.0-20230530153820-e85fd2cbaebc
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.31.0
 	honnef.co/go/tools v0.5.0-0.dev.0.20230826160118-ad5ca31ff221
